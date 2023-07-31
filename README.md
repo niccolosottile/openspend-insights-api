@@ -1,5 +1,4 @@
-
-<img width="1445" alt="Screenshot 2023-07-30 at 18 59 06" src="https://github.com/euanChalmers02/ExampleWinterns/assets/98414012/17eb902d-bdba-46fb-bb51-ac9709940e10">
+<img width="1450" alt="Screenshot 2023-07-30 at 19 19 40" src="https://github.com/niccolosottile/openspend-insights-api/assets/98414012/2ffa7920-c191-4a7e-a579-7dc87eec56ec">
 
 
 How to view the swagger (when running the server locally):
